@@ -15,6 +15,9 @@ body-tumor-detection/
     val/{tumor,normal}
   models/
 ```
+<img width="278" height="676" alt="image" src="https://github.com/user-attachments/assets/af9ff605-78db-4f91-b921-2b0da71854d1" />
+<img width="244" height="667" alt="image" src="https://github.com/user-attachments/assets/6b8f56f1-907b-45ba-95cd-655d0922a324" />
+
 
 ## Setup
 ```bash
@@ -50,3 +53,6 @@ python infer.py --image path/to/image.jpg
 - This is **not** a medical device; educational use only.
 - 
 <img width="849" height="738" alt="image" src="https://github.com/user-attachments/assets/22af484a-d794-4bb1-a7b9-0449e3e13187" />
+
+<img width="853" height="261" alt="image" src="https://github.com/user-attachments/assets/9a5f402b-8d37-491f-891c-849760db9d83" />
+
