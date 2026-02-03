@@ -48,3 +48,5 @@ python infer.py --image path/to/image.jpg
 - Works on generic RGB images (PNG/JPG). Convert DICOM to PNG/JPG first.
 - Grad-CAM last conv layer name for MobileNetV2: `Conv_1`.
 - This is **not** a medical device; educational use only.
+- 
+<img width="849" height="738" alt="image" src="https://github.com/user-attachments/assets/22af484a-d794-4bb1-a7b9-0449e3e13187" />
