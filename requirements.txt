@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+tensorflow
+numpy
+pillow
+reportlab
+pdfkit
